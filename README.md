@@ -87,7 +87,7 @@ Meu nome é Gabriel Lázaro Guimarães Marques e sou natural de Minas Gerais. At
     />
   </a>
 
-  <a href="https://discord.com/users/SEU_ID_AQUI">
+  <a href="">
     <img 
       alt="Discord"
       title="Me adicione no Discord: ogabriel_lz"
@@ -103,11 +103,11 @@ Meu nome é Gabriel Lázaro Guimarães Marques e sou natural de Minas Gerais. At
     />
   </a>
 
-  <a href="https://github.com/oBielzZ?tab=repositories&sort=stargazers">
+  <a href="https://github.com/oGabrielLzz?tab=repositories&sort=stargazers">
   <img 
     alt="Total de estrelas" 
     title="Total de estrelas no GitHub" 
-    src="https://img.shields.io/github/stars/oBielzZ?style=for-the-badge&logo=reverbnation&logoColor=F8D866&color=000000&labelColor=000000"
+    src="https://img.shields.io/github/stars/oGabrielLzz?style=for-the-badge&logo=reverbnation&logoColor=F8D866&color=000000&labelColor=000000"
   />
 </a>
 
