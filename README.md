@@ -80,47 +80,49 @@ Meu nome é Gabriel Lázaro Guimarães Marques e sou natural de Minas Gerais. At
 
 <p align="center">
   
-  <a href="mailto:gabriellazaro2005@gmail.com">
+  <a href="mailto:gabriellazaro@ufv.br">
     <img 
       alt="gmail"
-      title="gabriellazaro2005@gmail.com" 
-      src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=39ff14&color=000000&labelColor=000000"
+      title="gabriellazaro@ufv.br" 
+      src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=F8D866&color=000000&labelColor=000000"
     />
   </a>
+
   <a href="https://discord.com/users/SEU_ID_AQUI">
     <img 
       alt="Discord"
       title="Me adicione no Discord: ogabriel_lz"
-      src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=39ff14&color=000000&labelColor=000000"
+      src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=F8D866&color=000000&labelColor=000000"
     />
   </a>
-  <a href="https://github.com/oBielzZ">
+
+  <a href="https://github.com/oGabrielLzz">
     <img 
       alt="GitHub Profile" 
       title="Siga meu GitHub" 
-      src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=39ff14&color=000000&labelColor=000000"
+      src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=F8D866&color=000000&labelColor=000000"
     />
   </a>
-  <a href="https://github.com/oBielzZ?tab=repositories&sort=stargazers">
-  <img 
-    alt="Total de estrelas" 
-    title="Total de estrelas no GitHub" 
-    src="https://img.shields.io/badge/Estrelas-1-black?style=for-the-badge&logo=reverbnation&logoColor=39ff14&color=000000&labelColor=000000" 
-  />
-</a>
+
+  <a href="https://github.com/oGabrielLzz?tab=repositories&sort=stargazers">
+    <img 
+      alt="Total de estrelas" 
+      title="Total de estrelas no GitHub" 
+      src="https://img.shields.io/badge/Estrelas-black?style=for-the-badge&logo=reverbnation&logoColor=F8D866&color=000000&labelColor=000000"
+    />
+  </a>
 
 </p>
-
 ---
 <p align="center">
   <a href="">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=oBielzZ&theme=highcontrast&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=oGabrielLzz&theme=highcontrast&hide_border=true" />
   </a>
 </p>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=oBielzZ&theme=highcontrast&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=oBielzZ&theme=highcontrast&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=oGabrielLzz&theme=highcontrast&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=oGabrielLzz&theme=highcontrast&hide_border=true" />
 </div>
 
 ---
