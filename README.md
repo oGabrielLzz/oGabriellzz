@@ -72,7 +72,6 @@ Meu nome é Gabriel Lázaro Guimarães Marques e sou natural de Minas Gerais. At
 </p>
 <br/>
 
-
 ---
 
 <p align = "center" ><Strong>Contact me: </p>
@@ -104,15 +103,16 @@ Meu nome é Gabriel Lázaro Guimarães Marques e sou natural de Minas Gerais. At
     />
   </a>
 
-  <a href="https://github.com/oGabrielLzz?tab=repositories&sort=stargazers">
-    <img 
-      alt="Total de estrelas" 
-      title="Total de estrelas no GitHub" 
-      src="https://img.shields.io/badge/Estrelas-black?style=for-the-badge&logo=reverbnation&logoColor=F8D866&color=000000&labelColor=000000"
-    />
-  </a>
+  <a href="https://github.com/oBielzZ?tab=repositories&sort=stargazers">
+  <img 
+    alt="Total de estrelas" 
+    title="Total de estrelas no GitHub" 
+    src="https://img.shields.io/github/stars/oBielzZ?style=for-the-badge&logo=reverbnation&logoColor=F8D866&color=000000&labelColor=000000"
+  />
+</a>
 
 </p>
+
 ---
 <p align="center">
   <a href="">
