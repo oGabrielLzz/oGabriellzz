@@ -15,7 +15,7 @@
   <strong><code>Software Engineering</code></strong>
 </p>
 
-Meu nome é Gabriel Lázaro Guimarães Marques e sou natural de Minas Gerais. Atualmente cursando Ciência da computação na Universidade Federal de Viçosa - UFV. Neste perfil mostro meus projetos pessoais seja eles práticos com intuito de aprendizado ou de aplicação real . Também através do link ( https://github.com/oGabrielLzz ) mostro meus projetos/trabalhos acadêmicos. 
+Meu nome é Gabriel Lázaro Guimarães Marques e sou natural de Minas Gerais. Atualmente cursando Ciência da computação na Universidade Federal de Viçosa - UFV. Neste perfil mostro meus projetos pessoais seja eles práticos com intuito de aprendizado ou de aplicação real al[em dos meus projetos/trabalhos acadêmicos. 
 
 
 <br>
