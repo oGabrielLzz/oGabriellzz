@@ -53,13 +53,6 @@ Meu nome é Gabriel Lázaro Guimarães Marques e sou natural de Minas Gerais. At
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
-<img 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
@@ -86,7 +79,7 @@ Meu nome é Gabriel Lázaro Guimarães Marques e sou natural de Minas Gerais. At
       src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=39ff14&color=000000&labelColor=000000"
     />
   </a>
-  <a href="https://discord.com/users/SEU_ID_AQUI">
+  <a href="https://discord.com/users/ogabriel_lz">
     <img 
       alt="Discord"
       title="Me adicione no Discord: ogabriel_lz"
