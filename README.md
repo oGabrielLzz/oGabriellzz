@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  <img src="banner3.gif" width="700">
+  <img src="banner3.gif" width="800">
 </p>
 
 <p align="center">
