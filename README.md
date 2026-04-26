@@ -1,8 +1,7 @@
 <div align="center">
   <samp>
-    <br>
     <span style="color:#00FF00;">
-      Oi! Sou o <b>Gabriel</b>
+      Oi, Sou o <b>Gabriel</b>!! Estudando de ciência da computação 💻
     </span>
   </samp>
 </div>
